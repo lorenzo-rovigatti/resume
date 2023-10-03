@@ -24,6 +24,7 @@ convert-to-html: convert-to-docx
 	rm -rf html
 	mkdir -p html
 	cp output/resume-$(RELEASE_VERSION).html html/index.html
+	cp output/resume-$(RELEASE_VERSION).css html/
 .PHONY: convert-to-html
 
 convert: convert-to-html
