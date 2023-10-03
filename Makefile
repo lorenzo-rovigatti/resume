@@ -6,10 +6,8 @@ install-deps:
 	@echo "Installing dependencies..."
 	rm -rf output
 	mkdir -p output
-	curl -LO 'https://github.com/jgm/pandoc/releases/download/3.1.8/pandoc-3.1.8-1-amd64.deb'
-	curl -LO 'https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb'
-	if (( $EUID != 0 )); then sudo apt-get install -y ./pandoc-3.1.8-1-amd64.deb; else apt-get install -y ./pandoc-3.1.8-1-amd64.deb; fi
-	if (( $EUID != 0 )); then sudo apt-get install -y ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb; else apt-get install -y ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb; fi
+	apt -qq list pandoc | grep installed || sudo apt-get install pandoc
+	apt -qq list wkhtmltopdf | grep installed || sudo apt-get install wkhtmltopdf
 	cp resume.md output/resume-$(RELEASE_VERSION).md
 	cp resume.css output/resume-$(RELEASE_VERSION).css
 	cp resume.css resume-$(RELEASE_VERSION).css
@@ -17,12 +15,12 @@ install-deps:
 
 convert-to-docx: install-deps
 	@echo "Converting to DOCX..."
-	pandoc resume.md --embed-resources --standalone -f markdown -t docx -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).docx
+	pandoc resume.md --standalone -f markdown -t docx -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).docx
 .PHONY: convert-to-docx
 
 convert-to-html: convert-to-docx
 	@echo "Converting to HTML..."
-	pandoc resume.md --embed-resources --standalone -f markdown -t html -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).html
+	pandoc resume.md --standalone -f markdown -t html -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).html
 	rm -rf html
 	mkdir -p html
 	cp output/resume-$(RELEASE_VERSION).html html/index.html

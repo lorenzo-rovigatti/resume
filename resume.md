@@ -18,24 +18,19 @@ keywords:
 
 ## Associate professor of condensed-matter physics {.subtitle}
 
+## Current address &amp; contacts
+
+Dipartimento di Fisica, Sapienza University of Rome<br/>
+<small>P.le A. Moro 5, 00185 - Rome, Italy</small>
+
 * Email address: [lorenzo.rovigatti@uniroma1.it](mailto:lorenzo.rovigatti@uniroma1.it) 
 * [My website](https://www.roma1.infn.it/~rovigatl/)
 * My profile on scientific databases: [Google Scholar](https://scholar.google.it/citations?user=zLcStkMAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=50661840500), [ResearcherID](http://www.researcherid.com/rid/K-2665-2012)
 * [My github profile](https://github.com/lorenzo-rovigatti)
 
-## Current address
-
-Dipartimento di Fisica
-
-Sapienza Università di Roma
-
-P.le A. Moro 5, 00185
-
-Rome, Italy
-
 ## Academic positions
 
-* 2021 - : Associate Professor, Physics Department, Sapienza University of Rome
+* 2021 - present: Associate Professor, Physics Department, Sapienza University of Rome
 * 2018 - 2021: Tenure-track researcher (RTDB), Physics Department, Sapienza University of Rome
 * 2017 - 2018: Non-tenured researcher (RTDA), ISC-CNR
 * 2016 - 2017: Post-doc research fellow, University of Oxford
@@ -44,8 +39,8 @@ Rome, Italy
 
 ## Teaching
 
-* 2018 - : Course lecturer of Eletromagnetism (Fisica 2) for Industrial Chemists and Chemists
-* 2022 - : Course lecturer of Introduction to programming (Laboratorio di Calcolo) for Physicists
+* 2018 - present: Course lecturer of Eletromagnetism (Fisica 2) for Industrial Chemists and Chemists
+* 2022 - present: Course lecturer of Introduction to programming (Laboratorio di Calcolo) for Physicists
 * 2019 - 2021: Assistant for Introduction to programming (Laboratorio di Calcolo) for Physicists
 
 ## Student Supervision
