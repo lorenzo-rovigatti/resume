@@ -92,4 +92,7 @@ presentations:
 
 ## Reviewing activities
 
-Reviewer for Nanoscale, Nat. Commun., Phys. Rev. Appl. Lett., Phys. Rev. B, Phys. Rev. E, Phys. Rev. Lett., Polymers, Soft Matter, Eur. Phys. J. E, J. Chem. Phys., J. Phys. Chem.
+2022: Reviewer for the National Science Foundation (USA)
+2022: Reviewer for the Dutch Research Council (The Netherlands)
+2021 - 2023: Reviewer for the National Science Center (Poland)
+2011 - present: Reviewer for Nanoscale, Nat. Commun., Phys. Rev. Appl. Lett., Phys. Rev. B, Phys. Rev. E, Phys. Rev. Lett., Polymers, Soft Matter, Eur. Phys. J. E, J. Chem. Phys., J. Phys. Chem.
