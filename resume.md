@@ -39,14 +39,17 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 
 ## Teaching
 
-* 2018 - present: Course lecturer of Eletromagnetism (Fisica 2) for Industrial Chemists and Chemists
+* 2024 - present: Course lecturer of Computational Biophysics for Physicists
+* 2018 - 2023: Course lecturer of Eletromagnetism (Fisica 2) for Industrial Chemists and Chemists
 * 2022 - present: Course lecturer of Introduction to programming (Laboratorio di Calcolo) for Physicists
 * 2019 - 2021: Assistant for Introduction to programming (Laboratorio di Calcolo) for Physicists
 
 ## Student Supervision
 
-* 2022: Supervisor of one Ph.D. student
-* 2012 - 2023: (co-)supervisor of 8 master students at Sapienza and University of Vienna
+* 2022 - 2024: Supervisor of Francesco Tosti Guerra (Ph.D. student)
+* 2018 - present: Supervisor of 7 master students
+* 2018 - present: Supervisor of 4 bachelor students at Sapienza
+* 2012 - 2016: co-supervisor of 2 master students at Sapienza and University of Vienna
 
 ## Funding
 
@@ -70,9 +73,10 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 
 ## Selected oral presentations
 
-I have delivered more than 30 presentations, half of which by invitation. Here is a list of selected invited
-presentations:
+I have delivered more than 30 presentations, half of which by invitation. Here is a list of selected invited presentations:
 
+* 2024: "A Quantum of Matter" seminar serie4, Trento (Italy)
+* 2024: Interdisciplinary challenges in non-equilibrium physics (IntCha24), MPI-PKS, Dresden (Germany)
 * 2023: XVI International Workshop on Complex Systems, Andalo (Italy)
 * 2022: Online talk for the Nanoseminar series organised by the Utrecht University (The Netherlands)
 * 2021: HPC School 2021, Trento (Italy)
@@ -85,10 +89,18 @@ presentations:
 
 ## Organisation of scientific meetings
 
-* 2021-2023: Programme Committee member, 27th, 28th and 29th International Conferences on DNA Computing and Molecular Programming
+* 2021-2023: Programme Committee member, 27th, 28th, 29th and 30th International Conferences on DNA Computing and Molecular Programming
 * 2022: Head of the local organising committee, From Water to Colloidal Water (Rome, Italy)
 * 2016: Local Committee member, ECIS 2016 (Rome, Italy)
 * 2013: Local Committee member, ISMC 2013 (Rome, Italy)
+
+## Institutional responsabilities
+
+* 2024: Member of the departmental panel for the evaluation of the "Seal of Excellence" projects to be financed by the Italian Ministry of the Research and University, Physics Department, Sapienza University of Rome.
+* 2023-present: Member of the steering committee of the funded project "Dipartimento di Eccellenza", Physics Department, Sapienza University of Rome.
+* 2021-2023: Head of Departmental Teaching Activities (delegato del Direttore per la Didattica), Physics Department, Sapienza University of Rome.
+* 2021: Member of the Committee for the creation of a Bachelor Degree in Artificial Intelligence, Physics Department, Sapienza University of Rome.
+* 2017-2018:  Member of the "ISC Committee for Research Project Management and Evaluation" (Commissione ISC per la Valutazione e la Gestione dei Progetti di Ricerca), Institute of Complex Systems (CNR-ISC).
 
 ## Reviewing activities
 
