@@ -17,7 +17,7 @@ body {
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-    font-size: 11pt;
+    font-size: 12pt;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     line-height: 1.5;
@@ -80,7 +80,7 @@ h1 {
 
 h2 {
     font-size: 12pt;
-    margin-top: 2em;
+    margin-top: 1.2em;
     margin-bottom: 0.5em;
     border-bottom: 1px solid #d0d0d0;
     padding-bottom: 0.3em;
@@ -157,11 +157,12 @@ ul li::before {
 }
 
 ol {
-    padding-left: 1.5em;
+    padding-left: 2em;
+    margin: 0.3em 0;
 }
 
-ol li ul:first-of-type {
-    margin-top: 0
+ol li {
+    margin: 0.2em 0;
 }
 
 hr {
@@ -298,7 +299,6 @@ sup {
     top: -0.4em;
 }
 
-/* Page breaking for PDF output */
 @media print {
     body {
         background: #fff;
@@ -309,22 +309,7 @@ sup {
     }
     
     h2 {
-        page-break-inside: avoid;
-        page-break-after: avoid;
         margin-top: 1.5em;
-    }
-    
-    h3, h4 {
-        page-break-inside: avoid;
-        page-break-after: avoid;
-    }
-    
-    ul, ol, dl, table, pre, blockquote {
-        page-break-inside: avoid;
-    }
-    
-    ul li, ol li, dl dt, dl dd {
-        page-break-inside: avoid;
     }
     
     a {
