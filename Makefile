@@ -29,7 +29,7 @@ convert-to-html: convert-to-docx
 
 convert: convert-to-html
 	@echo "Converting to PDF..."
-	wkhtmltopdf --enable-local-file-access output/resume-$(RELEASE_VERSION).html output/resume-$(RELEASE_VERSION).pdf
+	wkhtmltopdf --enable-local-file-access --margin-top 0.5in --margin-bottom 0.5in --margin-left 0.75in --margin-right 0.75in output/resume-$(RELEASE_VERSION).html output/resume-$(RELEASE_VERSION).pdf
 	zip -jr output/resume-$(RELEASE_VERSION).zip output/resume-$(RELEASE_VERSION).*
 .PHONY: convert
 

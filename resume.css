@@ -3,8 +3,8 @@
 html,
 body {
     margin: auto;
-    padding-right: 1.2em;
-    padding-left: 1.2em;
+    padding-right: 1em;
+    padding-left: 1em;
     max-width: 7.5in;
     color: #1a1a1a;
     background: #fff;
@@ -21,8 +21,10 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     line-height: 1.5;
-    padding: 0.5in;
+    padding: 0;
     margin: 0;
+    widows: 3;
+    orphans: 3;
 }
 
 p {
@@ -78,12 +80,12 @@ h1 {
 
 h2 {
     font-size: 12pt;
-    margin-top: 0.8em;
-    margin-bottom: 0.4em;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
     border-bottom: 1px solid #d0d0d0;
     padding-bottom: 0.3em;
     color: #2c5aa0;
-    page-break-before: avoid;
+    page-break-inside: avoid;
     page-break-after: avoid;
 }
 
@@ -97,7 +99,7 @@ h3 {
     color: #1a1a1a;
     margin-top: 0.5em;
     margin-bottom: 0.2em;
-    page-break-before: avoid;
+    page-break-inside: avoid;
     page-break-after: avoid;
 }
 
@@ -301,17 +303,19 @@ sup {
     body {
         background: #fff;
         margin: 0;
-        padding: 0.5in;
+        padding: 0;
         max-width: 100%;
         width: 100%;
     }
     
     h2 {
+        page-break-inside: avoid;
         page-break-after: avoid;
-        margin-top: 1em;
+        margin-top: 1.5em;
     }
     
     h3, h4 {
+        page-break-inside: avoid;
         page-break-after: avoid;
     }
     
