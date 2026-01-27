@@ -65,7 +65,7 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 * 2023: PI of the PRIN 2022 project "Efficient Light Harvesting with Self-assembled Peptide Nanostructures" (244,437 €)
 * 2022: Co-PI of the CECAM/CCP5 sandpit project "Calculation of Surface Free Energy of Molecular and Coarse-Grained Systems" (24,000 £)
 * 2022: University grant on "Simulating the growth mechanism of amorphous ices from chemical vapour deposition" (13,000 €)
-* 2020: University grant on "Modelling membraneless organelles on a computer" (15,000 €)
+* 2020: University grant on "Modelling membraneless organelles on a computer" (13,000 €)
 * 2018: Rita Levi Montalcini Fellowship (211,173.66 €)
 * 2016: Marie Skłodowska-Curie Fellowship (183,454.80 €)
 * 2014: Lise-Meitner Fellowship (144,420 €)
