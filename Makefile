@@ -6,6 +6,7 @@ install-deps:
 	@echo "Installing dependencies..."
 	rm -rf output
 	mkdir -p output
+	sudo apt-get update -qq
 	apt -qq list pandoc | grep installed || sudo apt-get install pandoc
 	apt -qq list wkhtmltopdf | grep installed || sudo apt-get install wkhtmltopdf
 	cp resume.md output/resume-$(RELEASE_VERSION).md
