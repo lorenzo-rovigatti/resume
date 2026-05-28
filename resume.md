@@ -125,10 +125,11 @@ I have delivered more than 30 presentations, more than half of which by invitati
 * 2022: Reviewer for the National Science Foundation (USA)
 * 2022: Reviewer for the Dutch Research Council (The Netherlands)
 * 2021 - 2025: Reviewer for the National Science Center (Poland)
-* 2011 - present: Reviewer for Nanoscale, Nat. Commun., Phys. Rev. Appl. Lett., Phys. Rev. B, Phys. Rev. E, Phys. Rev. Lett., Polymers, Soft Matter, Eur. Phys. J. E, J. Chem. Phys., J. Phys. Chem., Sci. Adv.
+* 2011 - present: Reviewer for Nanoscale, Nat. Commun., Phys. Rev. Appl. Lett., Phys. Rev. B, Phys. Rev. E, Phys. Rev. Lett., Polymers, Sci. Adv., Soft Matter, Eur. Phys. J. E, J. Chem. Phys., J. Phys. Chem., Sci. Adv.
 
 ## Selected publications
 
+* M. Cappa, S. Chiani, F. Sciortino, <u>L. Rovigatti</u>, "A Single-Chain Nanoparticle-Based Mean-Field Theory for Associative Polymers", *Macromolecules*, **59** 6006 (2026)
 * M. Cappa, F. Sciortino, <u>L. Rovigatti</u>, "A phase-field model for solutions of DNA-made particles", *J. Chem. Phys.* **162** 194901 (2025)
 * N. Di Pasquale, J. Algaba, P. Montero de Hijes, I. Sanchez-Burgos, A. R. Tejedor, S. R. Yeandel, F. J. Blas, R. L. Davidchack, J. R. Espinosa, C. L. Freeman, J. H. Harding, B. B. Laird, E. Sanz, C. Vega, <u>L. Rovigatti</u>, "Solid–liquid interfacial free energy from computer simulations: challenges and recent advances", *Chem. Rev.* **125** 5003 (2025)
 * H. Liu, M. Matthies, J. Russo, <u>L. Rovigatti</u>, R. P. Narayanan, T. Diep, D. McKeen, O. Gang, N. Stephanopoulos, F. Sciortino, H. Yan, F. Romano, P. Šulc, "Inverse design of a pyrochlore lattice of DNA origami through model-driven experiments", *Science* **384** 776 (2024)
@@ -155,4 +156,3 @@ I have delivered more than 30 presentations, more than half of which by invitati
 * S. Kantorovich, A. O. Ivanov, <u>L. Rovigatti</u>, J. M. Tavares, F. Sciortino, "Nonmonotonic Magnetic Susceptibility of Dipolar Hard-Spheres at Low Temperature and Density", *Phys. Rev. Lett.* **110** 148306 (2013)
 * P. Šulc, F. Romano, T. E. Ouldridge, <u>L. Rovigatti</u>, A. A. Louis, and J. P. K. Doye, "Sequence-dependent thermodynamics of a coarse-grained DNA model", *J. Chem. Phys.* **137** 135101 (2012)
 * <u>L. Rovigatti</u>, J. Russo, and F. Sciortino, "No Evidence of Gas-Liquid Coexistence in Dipolar Hard Spheres", *Phys. Rev. Lett.* **107** 237801 (2011)
-
