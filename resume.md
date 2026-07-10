@@ -62,6 +62,7 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 * 2026: University grant on "High precision voltmeter in an advanced electron spectrometer for neutrino physics" (Participant, 40,739.90 €)
 * 2025: NSF-MUR Lead Agency Opportunity of Artificial Intelligence project "Harnessing AI for design and simulation of nucleic acid nanodevices" (PI, 446,683 €, to be started)
 * 2025: University grant on "Biomimetic and biocompatible associative polymer networks with controllable phase behaviour" (PI, 9,000 €)
+* 2024: University grant on "HERMES-a Hollow Electrofluidic Robotic Muscle-Enhancement Sleeve as Rehabilitation orthosis" (Participant, 70,000 €)
 * 2023: PRIN 2022 PNRR project "Amorphous Rheology" (Co-PI, 231,417 €)
 * 2023: PRIN 2022 project "Efficient Light Harvesting with Self-assembled Peptide Nanostructures" (PI, 244,437 €)
 * 2022: CECAM/CCP5 sandpit project "Calculation of Surface Free Energy of Molecular and Coarse-Grained Systems" (Co-PI, 24,000 £)
@@ -87,8 +88,8 @@ I have published 3 book chapters and more than 70 articles in international peer
 
 Here is a list of my major research achievements:
 
-* The use of a field-theoretic description to model the phase separation of DNA-based particles that can be used to both mimic biological systems, as well as build new synthetic materials with desired properties [M. Cappa et al, J. Chem. Phys. 162, 194901 (2025)]. The method has been validated on experimental results [S. Scalia et al, J. Am. Chem. Soc. 147, 40816 (2025)].
-* The development of a computational technique based on the Boolean satisfiability principle that can be used to inverse-design soft materials and finite-sized nanostructures [L. Rovigatti et al, Nanoscale, 14, 14268 (2022) and J. Russo et al, J. Phys.: Condens. Matter 34, 354002 (2022)]. We recently used this method to experimentally assemble a highly-coveted three-dimensional lattice made of DNA origami (Liu et al, Science, 384, 776 (2024)).
+* The use of a field-theoretic description to model the phase separation of DNA-based particles that can be used to mimic biological systems, as well as build new synthetic materials with desired properties [M. Cappa et al, J. Chem. Phys. 162, 194901 (2025)]. The method has been validated on experimental results [S. Scalia et al, J. Am. Chem. Soc. 147, 40816 (2025)].
+* The development of a computational technique based on the Boolean satisfiability principle that can be used to inverse-design soft materials and finite-sized nanostructures [L. Rovigatti et al, Nanoscale, 14, 14268 (2022) and J. Russo et al, J. Phys.: Condens. Matter 34, 354002 (2022)]. We recently used this method to experimentally assemble a highly-coveted three-dimensional lattice made of DNA origami [Liu et al, Science, 384, 776 (2024)].
 * The discovery of an entropic mechanism that can be leveraged to control the thermodynamics of associative polymers, which can be made to phase separate or not depending on the sequence and position of the attractive monomers that decorate each chain [L. Rovigatti and F. Sciortino, Phys. Rev. Lett. 129, 074801 (2022) and M. Cappa et al, Macromolecules 59, 10 (2026)]
 * A joint numerical/theoretical analysis of the structural and dynamical properties of disordered polymer networks, demonstrating the importance of short chains and excluded-volume interactions in real polymer networks [V. Sorichetti et al, J. Chem. Phys., 158, 074905 (2023) and Macromolecules 54, 3769-3779 (2021)]
 * A joint theoretical, numerical and experimental work that introduces a method to generate protein assemblies with tunable phase diagrams in living cells to investigate the thermodynamics and dynamics of biomolecular condensates [M. Heidenreich et al, Nat. Chem. Biol., 16, 939-945 (2020)]
@@ -125,19 +126,23 @@ I have delivered more than 30 presentations, more than half of which by invitati
 
 ## Outreach and "terza missione" activities
 
-* 2026: Organisation of the "Sentieri di Pace: responsabilità ed etica degli scienziati per il disarmo" meeting (150+ participants, of which many were highschool students)
+* 2026: Organisation of the meeting entitled "Sentieri di Pace: responsabilità ed etica degli scienziati per il disarmo" (150+ participants, of which many were highschool students)
 * 2025-2026: Contributed to archival work aimed at digitizing historical documents from the Library of the Physics Department, as part of the project "Sentieri di pace alla Sapienza. Responsabilità ed etica di scienziati per il disarmo".
 * 2025-2026: Contributed to the design and preparation of a panel exhibition on the same project
-* 2025: Served as academic supervisor for a public engagement project (funded by an "Avvio Terza Missione" Sapienza grant) consisting of four public meetings organised by PhD students on the relationship between science and society, addressing climate crisis, gender rights, artificial intelligence and language, and the role of art and science as tools for knowledge and freedom.
+* 2025: Served as academic supervisor for the public engagement project "Eutopie - Dialoghi sul rapporto tra scienza e società per una ricerca sull'essere umano.", funded by an "Avvio Terza Missione" Sapienza grant. The project consisted of four public meetings organised by PhD students on the relationship between science and society, addressing climate crisis, gender rights, artificial intelligence and language, and the role of art and science as tools for knowledge and freedom.
 
 ## Institutional responsabilities
 
-* 2025 - present: Head of the Committee for the Planning of Teaching of Physics (Commissione Per La Pianificazione Della Didattica Della Fisica)
+* 2025 - present: Head of the Committee for the Planning of Teaching of Physics (Commissione Per La Pianificazione Della Didattica Della Fisica).
 * 2024: Member of the departmental panel for the evaluation of the "Seal of Excellence" projects to be financed by the Italian Ministry of the Research and University, Physics Department, Sapienza University of Rome.
 * 2023 - present: Member of the steering committee of the funded project "Dipartimento di Eccellenza", Physics Department, Sapienza University of Rome.
 * 2021 - 2023: Head of Departmental Teaching Activities (delegato del Direttore per la Didattica), Physics Department, Sapienza University of Rome.
 * 2021: Member of the Committee for the creation of a Bachelor Degree in Artificial Intelligence, Physics Department, Sapienza University of Rome.
 * 2017 - 2018:  Member of the "ISC Committee for Research Project Management and Evaluation" (Commissione ISC per la Valutazione e la Gestione dei Progetti di Ricerca), Institute of Complex Systems (CNR-ISC).
+
+## Career breaks
+
+2023-2024: I took 54 days of non-continuous paternity leave to take care of my two daughters (born in May 2023 and November 2024).
 
 ## Reviewing activities
 
